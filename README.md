@@ -16,8 +16,8 @@ author:
 header-img: 
 catalog: 	 
 tags:
-    - iOS
-    - 定时器
+    - xxx
+    - xxx
 ---
 
 ```
@@ -30,7 +30,7 @@ HTML5幻灯片的排版：
 
 这部分是用于占用html格式的幻灯片的，一般用到的是 Reveal.js, Impress.js, Slides, Prezi 等等。
 
-其主要原理是添加一个 `iframe`，在里面加入外部链接。你可以直接写到头文件里面去，详情请见下面的yaml头文件的写法。
+其主要原理是添加一个 `iframe`，在里面加入外部链接。可以直接写到头文件里面去，详情请见下面的yaml头文件的写法。
 
 ```
 ---
