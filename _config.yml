@@ -11,7 +11,7 @@ github_repo: "https://github.com/kevinli36/kevinli36.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Something"
+sidebar-about-description: "热爱嵌入式开发的程序员"
 sidebar-avatar: "/img/self.jpg"     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Openedv",
+        href: "http://www.openedv.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "ST MCU",
+        href: "https://www.stmcu.org.cn/"
     }
 ]
